@@ -1,0 +1,6 @@
+{
+  "name": "usac-deppa/apiclient",
+  "require": {
+    "php": ">=7.1"
+  }
+}
