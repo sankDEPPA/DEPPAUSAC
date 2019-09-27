@@ -1,5 +1,7 @@
 {
   "name": "usac-deppa/apiclient",
+  "description": "API client implementation for DEPPA",
+  "license": "MIT",
   "require": {
     "php": ">=7.1"
   }
